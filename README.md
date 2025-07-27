@@ -119,12 +119,6 @@ DreamBed is a modern e-commerce solution built for bed selling companies who wan
 - **Multi-vendor Support** - Platform expansion for multiple bed retailers
 - **Advanced Analytics** - Enhanced reporting and business intelligence features
 
-## 📧 Contact
 
-With great code comes great responsibility... this is my gift, my curse. Who am I? Your friendly neighbourhood coder.
-
-**Santhosh M**  
-Email: santhoshmayilraj@gmail.com  
-GitHub: santhoshmayilraj
 
 DreamBed is your comprehensive solution for modern bed retail e-commerce. Sweet dreams are made of great code! 🛏️
